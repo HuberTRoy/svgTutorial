@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="175">
+    <line x1="50" y1="50" x2="50" y2="150" style="stroke:#000000; stroke-width: 1;"></line>
+    <line x1="50" y1="150" x2="200" y2="100" style="stroke:#000000; stroke-width: 1;"></line>
+    <line x1="50" y1="100" x2="125" y2="125" style="stroke:#000000; stroke-width: 1;"></line>
+    <path d="M50,50 Q50,150  200,100" style="stroke: #00cc00; stroke-width: 2; fill:none;"></path>
+    <circle cx="50" cy="150" r="3" style="fill: #0000ff;"></circle>
+</svg>

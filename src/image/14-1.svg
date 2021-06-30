@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <path d="M50,50
+             A30,30 0 0,1 35,20
+             L100,100
+             M110,110
+             L100,0"
+          style="stroke:#660000; fill:none;"/>    
+</svg>

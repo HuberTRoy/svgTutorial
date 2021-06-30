@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="125">
+    <path d="M50,50 C10,100  190,100 150,50" style="stroke: #006666; fill:none;"></path>
+
+    <circle cx="10" cy="100" r="2" style="fill: #0000ff;"></circle>
+    <circle cx="190" cy="100" r="2" style="fill: #0000ff;"></circle>
+
+
+    <path d="M360,50 C310,10  490,90 440,50" style="stroke: #006666; fill:none;"></path>
+
+    <circle cx="310" cy="10" r="2" style="fill: #0000ff;"></circle>
+    <circle cx="490" cy="90" r="2" style="fill: #0000ff;"></circle>
+
+</svg>

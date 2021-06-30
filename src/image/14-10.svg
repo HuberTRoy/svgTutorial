@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="175">
+    <svg width="500" height="150">
+        <path d="M50,50 C75,80 125,20 150,50" style="stroke: #006666; fill:none;"></path>
+
+        <circle cx="75" cy="80" r="2" style="fill: #0000ff;"></circle>
+        <circle cx="125" cy="20" r="2" style="fill: #0000ff;"></circle>
+    </svg>
+</svg>
