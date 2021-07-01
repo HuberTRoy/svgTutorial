@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <text x="10" y="20">
+        Here is a text with <tspan style="baseline-shift: super;">superscript</tspan>
+        and <tspan style="baseline-shift: sub;">subscript</tspan> mixed with normal
+        text.
+    </text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+
+    <switch>
+        <g systemLanguage="en-UK">
+            <text x="10" y="20">UK English</text>
+        </g>
+        <g systemLanguage="en">
+            <text x="10" y="20">English</text>
+        </g>
+        <g systemLanguage="es">
+            <text x="10" y="20">Spanish</text>
+        </g>
+        <g systemLanguage="zh">
+            <text x="10" y="20">中文</text>
+        </g>
+    </switch>
+
+</svg>

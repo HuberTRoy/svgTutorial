@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <text x="20" y="15">
+        <tspan>tspan line 1</tspan>
+        <tspan dx="30" dy="10">tspan line 2</tspan>
+    </text>
+</svg>
