@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+         xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="100">
+
+    <text x="20" y="20">
+        Word spacing is normal
+    </text>
+    <text x="20" y="40" style="word-spacing: 4;">
+        Word spacing is 4
+    </text>
+    <text x="20" y="60" style="word-spacing: 8">
+        Word spacing is 8
+    </text>
+
+</svg>

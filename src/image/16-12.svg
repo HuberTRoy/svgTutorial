@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <text x="5" y="20" textLength="140" lengthAdjust="spacing">
+    A long, long, long text.
+    </text>
+    <text x="5" y="40" textLength="200" lengthAdjust="spacing">
+        A long, long, long text.
+    </text>
+    <text x="5" y="60" textLength="200" lengthAdjust="spacingAndGlyphs">
+        A long, long, long text.
+    </text>
+</svg>

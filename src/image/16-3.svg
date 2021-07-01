@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <text x="50" y="20"
+        style="text-anchor: start">
+        Start
+    </text>
+    <text x="50" y="40"
+        style="text-anchor: middle">
+        Middle
+    </text>
+    <text x="50" y="60"
+        style="text-anchor: end">
+        End
+    </text>
+
+</svg>

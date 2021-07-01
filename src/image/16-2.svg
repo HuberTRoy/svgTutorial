@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <text x="20"  y="40">Example SVG text 1</text>
+    <line x1="10" y1="40" x2="150" y2="40" style="stroke: #000000"/>
+
+</svg>
