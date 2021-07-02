@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="110">
+
+    <svg width="500" height="110">
+
+        <g id="shape3">
+            <rect x="0" y="0" width="50" height="50" />
+        </g>
+
+        <use xlink:href="#shape3" x="100" y="50" style="fill: #00ff00;"/>
+        <use xlink:href="#shape3" x="200" y="50" style="stroke: #00ff00; fill: none;"/>
+
+    </svg>
+</svg>

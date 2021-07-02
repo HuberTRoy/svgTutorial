@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="100">
+    <symbol id="shape2">
+        <circle cx="25" cy="25" r="25"></circle>
+    </symbol>
+
+    <use xlink:href="#shape2" x="50" y="25"></use>
+</svg>

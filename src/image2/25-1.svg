@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="110">
+
+    <g id="shape2">
+        <rect x="0" y="0" width="50" height="50"></rect>
+    </g>
+
+    <use xlink:href="#shape2" x="200" y="50"></use>
+
+    <circle cx="200" cy="50" r="5" style="fill:#0000ff;"></circle>
+
+</svg>

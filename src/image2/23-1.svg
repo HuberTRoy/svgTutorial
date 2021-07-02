@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <svg width="500" height="100">
+        <defs>
+            <g id="shape">
+                <rect x="0" y="0" width="50" height="50"></rect>
+                <circle cx="0" cy="0" r="50"></circle>
+            </g>
+        </defs>
+
+        <use xlink:href="#shape" x="50" y="50"></use>
+        <use xlink:href="#shape" x="200" y="50"></use>
+
+        <circle cx="50" cy="50" r="5" style="fill:#0000ff;"></circle>
+        <circle cx="200" cy="50" r="5" style="fill:#0000ff;"></circle>
+
+    </svg>
+</svg>
