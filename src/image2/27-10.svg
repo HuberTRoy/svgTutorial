@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="100">
+    <line x1="20" y1="20" x2="120" y2="20"
+      style="stroke: #000000; fill:none;
+      stroke-width: 6px;
+      stroke-dasharray: 10 5 5 5"  />
+
+    <line x1="20" y1="40" x2="120" y2="40"
+        style="stroke: #000000; fill:none;
+        stroke-width: 6px;
+        stroke-dasharray: 10 5 5 10"  />
+</svg>

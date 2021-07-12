@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="100">
+
+    <svg width="500" height="120">
+
+        <path d="M20,100 l20,-50 l20,50" style="stroke: #000000;    fill:none;
+                    stroke-width:16px;
+                    stroke-linejoin: miter;
+                    "></path>
+        <line x1="40" y1="29" x2="40" y2="73" style="stroke: #ff0000; stroke-width: 3px;"></line>
+        <line x1="60" y1="29" x2="60" y2="73" style="stroke: #ff0000; stroke-width: 3px;"></line>
+
+        <path d="M120,100 l40,-50 l40,50" style="stroke: #000000;    fill:none;
+                    stroke-width:16px;
+                    stroke-linejoin: miter;
+                    "></path>
+        <line x1="160" y1="35" x2="160" y2="63" style="stroke: #ff0000; stroke-width: 3px;"></line>
+        <line x1="180" y1="35" x2="180" y2="63" style="stroke: #ff0000; stroke-width: 3px;"></line>
+    </svg>
+</svg>
